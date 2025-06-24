@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Edgar-Moises-Leyva-Astorga
-- 👀 I’m interested in Java
-<!---
-Edgar-Moises-L/Edgar-Moises-L is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🧠 Pila de tecnología:
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
