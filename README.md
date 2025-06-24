@@ -1,6 +1,6 @@
 #  🚀 Desarrollador Backend
 
-Desarrollador web junior con especial interés en backend, formado en la creación de servicios RESTful con Java y Spring Boot. Aporto soluciones escalables y optimización de rendimiento, aplicando buenas prácticas de Spring MVC, Spring Data JPA y bases de datos SQL. Soy altamente proactivo, me motiva enfrentar retos y aprender de la mano de expertos. Mi objetivo es integrarme en un equipo profesional donde pueda contribuir con mis capacidades. 
+Desarrollador web junior con especial interés en backend, formado en la creación de servicios RESTfull con Java y Spring Boot. Aporto soluciones escalables y optimización de rendimiento, aplicando buenas prácticas de Spring MVC, Spring Data JPA y bases de datos SQL. Soy altamente proactivo, me motiva enfrentar retos y aprender de la mano de expertos. Mi objetivo es integrarme en un equipo profesional donde pueda contribuir con mis capacidades. 
 
 
 ## 🌐 Sociales:
